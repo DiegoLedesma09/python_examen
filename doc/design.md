@@ -10,6 +10,7 @@ El proyecto está organizado en módulos Python dentro de `src/` que dividen el 
 - `src/clasificacion.py`: clasifica los genes según umbrales de `p_value` y `log2_fold_change`.
 - `src/description_for_gene.py`: agrega la descripción del GFF al DataFrame de genes clasificados.
 - `src/output.py`: imprime el resumen y crea los archivos de salida.
+- `src/volcano.py`: genera un volcano plot de los resultados de expresión diferencial.
 - `src/deseq_utils.py`: orquesta el flujo completo de ejecución.
 
 ## Flujo de datos
@@ -39,6 +40,7 @@ El proyecto está organizado en módulos Python dentro de `src/` que dividen el 
 - `upregulated_genes.tsv`
 - `downregulated_genes.tsv`
 - `summary_report.txt`
+- `volcano_plot.png`
 - Resumen impreso en consola
 
 ## Suposiciones y notas

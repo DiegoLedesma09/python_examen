@@ -9,7 +9,7 @@ Este proyecto analiza resultados de expresión génica diferencial y enriquece l
 - Objetivo:
   - Clasificar genes en tres categorías: `upregulated`, `downregulated` y `no_change`.
   - Añadir descripciones de genes desde el GFF cuando están disponibles.
-  - Generar resultados de salida en archivos TSV y un informe de resumen.
+  - Generar resultados de salida en archivos TSV, un informe de resumen y un volcano plot.
 
 - Grupo de usuarios:
   - Bioinformáticos y biólogos que desean filtrar y explorar genes diferencialmente expresados a partir de resultados de análisis de expresión génica.

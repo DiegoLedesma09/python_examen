@@ -1,0 +1,362 @@
+Total de genes analizados: 351
+Gen mas inducido: ISG15
+Gen mas reprimido: MYC
+Gen mas estadisticamente confiable: RPS6
+
+Conteo de genes por categoria:
+  upregulated: 60 genes (17.09%)
+  downregulated: 40 genes (11.40%)
+  no_change: 251 genes (71.51%)
+
+Lista de genes DE con descripcion:
+FASN	-1.8564	0.004207	fatty acid synthase, de novo lipogenesis, required for viral membrane, suppressed by IFN
+KRAS	-1.4708	0.009944	KRAS proto-oncogene, GTPase, RAS/MAPK signaling, modulated in viral infection
+FAS	3.8425	0.00096	Fas cell surface death receptor, apoptosis via extrinsic pathway, upregulated by IFN
+MKI67	-2.9879	0.001	marker of proliferation Ki-67, cell cycle progression, widely used proliferation marker
+PTCH1	-0.4588	0.1529	patched 1, Hedgehog pathway receptor, tumor suppressor
+HMGB2	-0.8977	0.99	high mobility group box 2, chromatin architectural protein, nuclear, transcription regulation
+G6PD	-1.5358	0.003038	glucose-6-phosphate dehydrogenase, pentose phosphate pathway, redox balance
+PSMA1	0.4979	0.99	proteasome 20S subunit alpha 1, ubiquitin-dependent proteolysis
+PPARGC1A	0.2906	0.99	PPARG coactivator 1 alpha (PGC-1alpha), mitochondrial biogenesis
+PSMB3	0.0794	0.99	proteasome 20S subunit beta 3, antigen processing
+VIM	-2.1647	0.005078	vimentin, intermediate filament protein, cytoskeletal reorganization, viral entry cofactor
+H3C1	0.3239	0.99	H3 clustered histone 1, nucleosome component, chromatin packaging
+SLC2A1	-1.5279	0.004572	solute carrier family 2 member 1 (GLUT1), glucose transporter, metabolic reprogramming
+OAS1	7.7669	0.003017	2'-5'-oligoadenylate synthetase 1, activates RNase L, degrades viral RNA
+HNRNPA1	-0.115	0.99	heterogeneous nuclear ribonucleoprotein A1, mRNA splicing and export, stress granules
+XIAP	-1.7521	0.002586	X-linked inhibitor of apoptosis, inhibits caspases 3, 7, 9, downregulated in infection
+GATA1	-0.1786	0.99	GATA binding protein 1, transcription factor, erythroid and megakaryocyte differentiation
+ISG20	5.2831	0.001048	interferon-stimulated exonuclease gene 20, degrades single-stranded viral RNA
+GC	0.4335	0.99	GC vitamin D binding protein, vitamin D transport, complement activation
+HNRNPU	-0.1726	0.99	heterogeneous nuclear ribonucleoprotein U, nuclear matrix scaffold, RNA binding
+IRF7	6.6533	0.003183	interferon regulatory factor 7, master regulator of type I interferon response
+CTNNB1	-0.2331	0.99	catenin beta 1, Wnt signaling effector, cell-cell adhesion, oncogene
+TWNK	0.1507	0.8521	twinkle mtDNA helicase, mitochondrial DNA replication
+CXCL10	8.8641	0.001339	C-X-C motif chemokine ligand 10 (IP-10), recruits NK cells and T cells, strong ISG
+NOTCH2	-0.0304	0.99	notch receptor 2, cell fate determination, B cell development
+GUSB	-0.2856	0.99	glucuronidase beta, lysosomal enzyme, reference gene for qPCR
+KIT	0.2595	0.99	KIT proto-oncogene receptor tyrosine kinase, stem cell factor receptor, mast cells
+HNF4A	0.0564	0.99	hepatocyte nuclear factor 4 alpha, liver-specific transcription factor, metabolic regulation
+HSPA5	0.0429	0.6087	heat shock protein family A member 5 (BiP/GRP78), ER chaperone, unfolded protein response
+PSMA2	0.6383	0.7228	proteasome 20S subunit alpha 2, constitutive proteasome
+RPS8	-0.2037	0.8324	ribosomal protein S8, 40S small subunit, translation
+KCNMA1	-0.7955	0.7065	potassium calcium-activated channel subfamily M alpha 1 (BK channel), ion transport
+ABCB1	-0.0663	0.5538	ATP-binding cassette subfamily B member 1 (P-glycoprotein/MDR1), drug efflux transporter
+RPS10	0.4369	0.99	ribosomal protein S10, 40S ribosomal subunit
+OASL	4.8429	0.003994	2'-5'-oligoadenylate synthetase-like, enhances RIG-I signaling
+ACLY	-2.1018	2.6e-05	ATP-citrate lyase, links TCA cycle to lipid synthesis, metabolic reprogramming in infection
+NRXN1	-0.2039	0.4939	neurexin 1, synaptic cell adhesion, autism spectrum disorder gene
+RPL6	-0.127	0.99	ribosomal protein L6, 60S large ribosomal subunit
+ABCG2	-0.4192	0.8029	ATP-binding cassette subfamily G member 2 (BCRP), multidrug transporter, stem cell marker
+RPS3	0.1033	0.99	ribosomal protein S3, 40S subunit, DNA repair activity
+RUNX1	-0.3979	0.99	RUNT-related transcription factor 1 (AML1), hematopoietic master regulator
+RPL19	-0.3014	0.4478	ribosomal protein L19, 60S ribosomal subunit
+RPL4	0.0468	0.0965	ribosomal protein L4, 60S subunit, pre-rRNA processing
+APOE	-0.044	0.99	apolipoprotein E, lipid metabolism, Alzheimer disease risk, lipoprotein clearance
+IFIH1	5.6677	0.003127	interferon induced with helicase C domain 1 (MDA5), detects long dsRNA of viral origin
+CDK4	-2.6789	0.000318	cyclin-dependent kinase 4, G1 phase progression, inhibited during viral stress
+NTRK2	0.0722	0.99	neurotrophic receptor tyrosine kinase 2, BDNF receptor, neuronal survival
+BST2	6.464	0.001706	bone marrow stromal antigen 2 (Tetherin), restricts budding of enveloped viruses
+EGFR_like	0.1216	0.99	EGFR-like receptor tyrosine kinase, cell surface receptor, growth signaling
+TUBB	0.032	0.99	tubulin beta class I, microtubule component, cytoskeleton
+LAMA1	0.1192	0.1471	laminin subunit alpha 1, basement membrane glycoprotein, extracellular matrix
+STUB1	-0.3237	0.99	STIP1 homology and U-box containing protein 1 (CHIP), E3 ubiquitin ligase
+CCND1	-2.7714	0.011405	cyclin D1, G1/S cell cycle regulator, CDK4/6 activator, suppressed during viral infection
+TBP	-0.2981	0.99	TATA-box binding protein, general transcription factor, stable reference gene
+BMP4	0.0709	0.99	bone morphogenetic protein 4, TGF-beta superfamily, embryonic development
+RAB14	-1.0431	0.99	RAB14 member RAS oncogene family, endosomal trafficking, viral entry
+RET	0.908	0.99	ret proto-oncogene, GDNF receptor, thyroid cancer, multiple endocrine neoplasia
+FGF7	0.1792	0.147	fibroblast growth factor 7 (KGF), epithelial cell proliferation, wound healing
+TNF	4.6093	0.000877	tumor necrosis factor, pro-inflammatory cytokine, activates NF-kB, antiviral and pathological in IAV
+IGF1	-0.1125	0.99	insulin-like growth factor 1, growth hormone mediator, AKT activation
+RPL11	-0.7595	0.99	ribosomal protein L11, 60S subunit, p53 activation on ribosomal stress
+PIK3CA	-1.922	0.01012	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha, PI3K/AKT pathway
+RPL17	-0.3233	0.99	ribosomal protein L17, 60S large ribosomal subunit
+RSAD2	8.1292	0.008417	radical S-adenosyl methionine domain-containing protein 2 (Viperin), broad antiviral activity against IAV
+RPL21	-0.0139	0.99	ribosomal protein L21, 60S ribosomal subunit
+KIF5B	-0.0619	0.99	kinesin family member 5B, anterograde axonal transport, viral capsid transport
+FLT3	-0.0034	0.99	fms-related receptor tyrosine kinase 3, hematopoietic progenitor, AML target
+BCL2	-1.9083	0.006139	BCL2 apoptosis regulator, anti-apoptotic, mitochondrial membrane, downregulated by IAV
+RPLP0	0.4105	0.1114	ribosomal protein lateral stalk subunit P0, ribosome, reference gene
+UBA1	-0.7459	0.99	ubiquitin-like modifier activating enzyme 1, E1 ubiquitin enzyme
+SRSF5	0.2352	0.2662	serine and arginine rich splicing factor 5, alternative splicing
+CCT4	0.1187	0.6647	chaperonin containing TCP1 subunit 4 (delta), TRiC/CCT complex, protein folding
+DNAJB4	0.2352	0.99	DnaJ heat shock protein family member B4, cochaperone for HSP70, quality control
+CYP3A5	0.4439	0.99	cytochrome P450 family 3 subfamily A member 5, drug metabolism, ethnic variation
+YWHAZ	-0.3944	0.99	tyrosine 3-monooxygenase activation protein zeta, 14-3-3 protein, reference gene
+ZNFX1	4.1452	0.005905	zinc finger NFX1-type containing 1, antiviral RNA helicase, ISG
+DDX58	6.6916	0.001146	DExD/H-box helicase 58 (RIG-I), cytosolic RNA helicase, detects 5'-triphosphate viral RNA
+RAB7A	0.2298	0.7362	RAB7A member RAS oncogene family, late endosome maturation, viral uncoating
+GAPDH	0.3453	0.2696	glyceraldehyde-3-phosphate dehydrogenase, glycolysis enzyme, widely used reference gene
+HMGA2	0.3872	0.99	high mobility group AT-hook 2, chromatin remodeling, oncofetal protein
+RPS11	0.295	0.99	ribosomal protein S11, 40S ribosomal subunit
+PTPN6	-1.8233	0.013179	protein tyrosine phosphatase non-receptor type 6 (SHP-1), negative immune regulator
+SAMD9L	4.4036	0.000825	sterile alpha motif domain-containing protein 9-like, antiviral, innate immunity
+TUBA1B	0.1351	0.4128	tubulin alpha 1b, ubiquitous alpha-tubulin, microtubule polymer
+SRSF2	0.15	0.8684	serine and arginine rich splicing factor 2 (SC35), constitutive splicing
+PSMD3	0.175	0.2285	proteasome 26S subunit non-ATPase 3, 19S lid subunit
+CYP2D6	-0.0373	0.99	cytochrome P450 family 2 subfamily D member 6, codeine and antidepressant metabolism, pharmacogenomics
+IFITM3	8.8809	0.001986	interferon-induced transmembrane protein 3, key restriction factor for IAV, GWAS influenza severity
+MCM2	-2.82	0.003527	minichromosome maintenance complex component 2, DNA replication helicase, cell cycle
+HERC5	6.101	0.011945	HECT and RLD domain-containing E3 ubiquitin ligase family member 5, ISGylation, antiviral
+HSP90AA1	0.285	0.99	heat shock protein 90 alpha family class A member 1, molecular chaperone, viral protein folding
+PSMA3	-0.103	0.5189	proteasome 20S subunit alpha 3, alpha ring of 20S proteasome
+CYP2C9	-0.7188	0.99	cytochrome P450 family 2 subfamily C member 9, warfarin and NSAID metabolism
+UBE2D1	-0.0568	0.99	ubiquitin-conjugating enzyme E2 D1, broad substrate E2 enzyme
+SLC22A1	0.3499	0.99	solute carrier family 22 member 1 (OCT1), organic cation transporter
+PPIA	-0.1131	0.99	peptidylprolyl isomerase A (cyclophilin A), protein folding chaperone, reference gene
+AHSG	-0.3982	0.2594	alpha-2-Heremans-Schmid glycoprotein (fetuin A), inhibits calcification, anti-inflammatory
+U2AF2	-0.0945	0.99	U2 small nuclear RNA auxiliary factor 2, polypyrimidine tract binding
+MTOR	-1.4592	0.006216	mechanistic target of rapamycin kinase, nutrient sensing, translation control, IAV antagonizes
+ISG15	10.2357	0.005496	ISG15 ubiquitin-like modifier, conjugated to proteins during viral infection, antiviral
+NRXN2	-0.1369	0.99	neurexin 2, presynaptic cell adhesion, autism risk gene
+PSMC2	-0.3535	0.99	proteasome 26S subunit ATPase 2, 19S regulatory cap
+APOBEC3A	3.8668	0.002326	apolipoprotein B mRNA editing enzyme catalytic subunit 3A, cytidine deaminase, antiviral
+TRIM22	5.2791	0.00193	tripartite motif-containing protein 22, E3 ubiquitin ligase, restricts IAV and HIV
+CCT2	0.2271	0.99	uncharacterized gene CCT2, function under investigation
+SP100	3.7414	0.002008	SP100 nuclear antigen, component of PML bodies, antiviral, interferon-induced
+SDHA	0.1633	0.99	succinate dehydrogenase complex flavoprotein subunit A, mitochondrial complex II, reference gene
+ATP6V1B2	-1.6863	0.003371	ATPase H+ transporting V1 subunit B2, vacuolar H-ATPase, endosomal acidification, viral entry
+HSPB1	0.6029	0.5569	heat shock protein family B member 1 (HSP27), small HSP, actin dynamics, cytoprotection
+TFRC	-0.1163	0.99	transferrin receptor, iron uptake, cell surface, reference gene
+IFI6	5.9171	0.000312	interferon-alpha inducible protein 6, anti-apoptotic, interferon response
+HSPA1B	-0.4573	0.99	heat shock protein family A member 1B, inducible HSP70, stress response
+CYP3A4	-0.1398	0.8136	cytochrome P450 family 3 subfamily A member 4, major drug-metabolizing enzyme, hepatic
+CYP1A1	0.0138	0.7813	cytochrome P450 family 1 subfamily A member 1, xenobiotic metabolism, PAH activation
+TLR3	3.18	0.002438	toll-like receptor 3, recognizes double-stranded RNA, triggers interferon response
+H2BC3	-0.0648	0.99	H2B clustered histone 3, core histone, chromatin structure
+HNRNPM	0.2365	0.99	heterogeneous nuclear ribonucleoprotein M, pre-mRNA splicing, Wnt signaling
+TGFB3	-0.2281	0.99	transforming growth factor beta 3, palatogenesis, cardiac development
+NOTCH1	-0.3106	0.99	notch receptor 1, cell fate signaling, T cell development, T-ALL oncogene
+HNRNPF	0.2523	0.99	heterogeneous nuclear ribonucleoprotein F, alternative splicing, G-quadruplex binding
+OAS2	6.1049	0.007062	2'-5'-oligoadenylate synthetase 2, antiviral innate immunity
+PCNA	-1.8455	0.005643	proliferating cell nuclear antigen, DNA clamp for replication, cell cycle marker
+OAS3	6.0862	0.000406	2'-5'-oligoadenylate synthetase 3, activates RNase L pathway
+NCL	-0.3094	0.3011	nucleolin, rRNA processing, viral attachment factor
+RPL3	0.2042	0.99	ribosomal protein L3, first step of 60S assembly, p53 activator
+RPS18	0.8287	0.5925	ribosomal protein S18, 40S ribosomal subunit
+COL3A1	-0.371	0.99	collagen type III alpha 1 chain, blood vessel and skin extracellular matrix, Ehlers-Danlos
+UBE2A	0.9927	0.99	ubiquitin-conjugating enzyme E2 A, histone H2A ubiquitination
+HGF	-0.5009	0.8286	hepatocyte growth factor, MET ligand, tissue repair, anti-apoptotic
+IFIT1	8.6901	0.006693	interferon-induced protein with tetratricopeptide repeats 1, antiviral, inhibits viral RNA replication
+HEY1	-0.2856	0.99	hes related family bHLH transcription factor with YRPW motif 1, Notch target
+ACTB	0.0591	0.2448	actin beta, cytoskeletal protein, housekeeping gene, reference gene for normalization
+MX2	5.0667	0.007146	MX dynamin-like GTPase 2, antiviral activity against retroviruses and rhabdoviruses
+FGF2	-0.2356	0.99	fibroblast growth factor 2 (basic FGF), angiogenesis, cell proliferation, wound healing
+RAB1A	-0.4296	0.6899	RAB1A member RAS oncogene family, ER-to-Golgi transport
+EMILIN1	-0.3566	0.4811	elastin microfibril interfacer 1, extracellular matrix, vascular homeostasis
+PDGFRA	0.2368	0.99	platelet derived growth factor receptor alpha, RTK, GIST, glioblastoma
+HNF1A	0.1867	0.5837	HNF1 homeobox A, liver transcription factor, MODY3, glucose metabolism
+PSMB2	0.2973	0.7243	proteasome 20S subunit beta 2, trypsin-like proteasome activity
+DHX58	3.973	0.000898	DExH-box helicase 58 (LGP2), RNA helicase, modulates RIG-I/MDA5 signaling
+BMP7	0.3188	0.99	bone morphogenetic protein 7, kidney development, antifibrotic, osteogenesis
+IFITM1	7.7446	0.004299	interferon-induced transmembrane protein 1, blocks viral entry into host cells
+ARF3	0.0712	0.99	ADP-ribosylation factor 3, Golgi COPI vesicle budding, trafficking
+COL1A1	0.7898	0.99	collagen type I alpha 1 chain, most abundant extracellular matrix protein, fibrosis
+IFNL1	6.517	0.002665	interferon lambda 1 (IL-29), antiviral, acts on epithelial cells
+APOA2	0.1574	0.99	apolipoprotein A2, HDL metabolism, lipid homeostasis
+UBE2L6	4.9464	0.00778	ubiquitin-conjugating enzyme E2 L6, ISGylation pathway, antiviral
+STAT1	5.6565	0.001167	signal transducer and activator of transcription 1, central mediator of interferon signaling
+PGK1	0.302	0.99	phosphoglycerate kinase 1, glycolysis, reference gene
+COL4A1	1.0547	0.99	collagen type IV alpha 1 chain, basement membrane component
+MT-ATP6	-0.2396	0.99	ATP synthase F0 subunit 6, proton channel, ATP synthesis
+IL8	6.7562	0.011449	C-X-C motif chemokine ligand 8 (IL-8/CXCL8), neutrophil chemoattractant, NF-kB target
+CXCL9	7.1675	0.004763	C-X-C motif chemokine ligand 9 (MIG), interferon-gamma-induced, T-cell recruitment
+HNRNPK	-0.123	0.99	heterogeneous nuclear ribonucleoprotein K, mRNA stability, translation regulation, c-Src substrate
+SRSF3	0.6905	0.2827	serine and arginine rich splicing factor 3, splicing, mRNA export
+TUBA1A	0.0973	0.99	tubulin alpha 1a, lissencephaly gene, microtubule cytoskeleton
+APOC2	-0.1781	0.99	apolipoprotein C2, lipoprotein lipase activator, VLDL triglyceride hydrolysis
+RPL7	-0.1505	0.99	ribosomal protein L7, 60S ribosomal large subunit
+HNRNPL	0.3297	0.99	heterogeneous nuclear ribonucleoprotein L, alternative splicing, IRES-mediated translation
+HMGB1	0.5926	0.99	high mobility group box 1, chromatin remodeling, alarmin, DAMP in viral infection
+SCN1A	0.6465	0.99	sodium voltage-gated channel alpha subunit 1, Dravet syndrome
+H2AC4	0.1901	0.99	H2A clustered histone 4, nucleosome histone H2A variant
+SFPQ	-0.4036	0.99	splicing factor proline and glutamine rich (PSF), RNA splicing, paraspeckle
+DLL1	0.0662	0.99	delta-like canonical Notch ligand 1, lateral inhibition, T cell development
+HSP90B1	0.1286	0.2346	heat shock protein 90 beta family member 1 (GRP94), ER lumenal chaperone
+COL5A1	0.6782	0.99	collagen type V alpha 1 chain, fibrillar collagen, cornea and tendon
+IFI44L	6.7419	0.002338	interferon-induced protein 44-like, ISG, exact function unclear
+H2BC1	0.0723	0.99	H2B clustered histone 1, nucleosome core histone, chromatin compaction
+HSPA8	0.3155	0.6471	heat shock protein family A member 8 (HSC70), constitutive chaperone, clathrin uncoating
+NCAM1	0.4319	0.99	neural cell adhesion molecule 1, synaptic plasticity
+LAMB1	0.1804	0.99	laminin subunit beta 1, basement membrane component, epithelial adhesion
+CP	-0.0758	0.99	ceruloplasmin, ferroxidase, copper transport, antioxidant plasma protein
+TGFB1	0.0021	0.99	transforming growth factor beta 1, fibrosis, immune suppression, EMT
+WNT3A	0.4173	0.99	Wnt family member 3A, canonical Wnt signaling
+H4C1	-0.2323	0.99	H4 clustered histone 1, nucleosome core histone H4, most conserved histone
+CYP1B1	0.2051	0.7111	cytochrome P450 family 1 subfamily B member 1, steroid and xenobiotic metabolism
+TF	0.3935	0.99	transferrin, iron transport protein, iron homeostasis
+CXCL11	6.7014	0.010517	C-X-C motif chemokine ligand 11 (I-TAC), binds CXCR3, antiviral inflammation
+PSMD2	0.5158	0.1262	proteasome 26S subunit non-ATPase 2, ubiquitin receptor
+MAVS	3.5857	0.003806	mitochondrial antiviral signaling protein, adaptor for RIG-I/MDA5 pathway
+SMO	-0.1314	0.99	smoothened frizzled class receptor, Hedgehog transducer, vismodegib target
+SAMHD1	3.8978	0.005448	SAM and HD domain-containing protein 1, dNTPase, restricts retroviruses and DNA viruses
+CYP2B6	0.0057	0.99	cytochrome P450 family 2 subfamily B member 6, drug metabolism, ketamine and bupropion
+SOCS1	-2.26	0.006244	suppressor of cytokine signaling 1, negative feedback of JAK-STAT, exploited by viruses
+RPL9	0.0196	0.9457	ribosomal protein L9, 60S large ribosomal subunit
+RPS14	-0.3165	0.99	ribosomal protein S14, 40S subunit, del(5q) MDS gene
+HNRNPH1	0.1435	0.99	heterogeneous nuclear ribonucleoprotein H1, splicing regulation, viral RNA interactions
+VEGFA	0.423	0.0906	vascular endothelial growth factor A, angiogenesis, hypoxia response, anti-VEGF therapy
+EIF4E	-1.5652	0.006272	eukaryotic translation initiation factor 4E, cap-dependent translation, mTOR target
+FGFR1	-0.271	0.99	fibroblast growth factor receptor 1, RTK, development and repair, cancer target
+APOC1	-0.511	0.99	apolipoprotein C1, VLDL metabolism, lipoprotein lipase inhibitor
+GLI2	-0.2239	0.9892	GLI family zinc finger 2, Hedgehog transcription factor, holoprosencephaly
+PSMC1	-0.3868	0.99	proteasome 26S subunit ATPase 1, 19S regulatory particle
+TFAM	0.1001	0.3214	transcription factor A mitochondrial, mtDNA packaging, replication
+RPS6	-1.2671	4e-06	ribosomal protein S6, eS6, phosphorylated by mTOR pathway, translation regulation
+UBB	0.1289	0.445	ubiquitin B, polyubiquitin precursor, protein degradation signal
+GLI1	-0.3349	0.3289	GLI family zinc finger 1, Hedgehog transcription factor, basal cell carcinoma
+GATA4	0.1284	0.99	GATA binding protein 4, cardiac and gonadal development, heart failure
+IFITM2	5.9493	0.001383	interferon-induced transmembrane protein 2, restricts influenza and other viruses
+TDP-43	0.2695	0.385	uncharacterized locus TDP-43, putative protein-coding gene
+MT-CYB	-0.2984	0.99	cytochrome b, complex III, electron carrier in respiratory chain
+SLC3A2	-1.6521	0.003058	solute carrier family 3 member 2, amino acid transport, viral metabolism
+RUNX2	0.1567	0.99	RUNT-related transcription factor 2, osteoblast master regulator
+HSPA4	0.1369	0.99	heat shock protein family A member 4 (HSP70-4), protein folding, stress tolerance
+ARF4	-0.3847	0.99	ADP-ribosylation factor 4, Golgi-to-ER transport, ciliopathy-linked
+RAB5A	0.3489	0.6924	RAB5A member RAS oncogene family, early endosome fusion, viral endocytosis
+FLT1	-0.4185	0.99	fms-related receptor tyrosine kinase 1 (VEGFR1), VEGF receptor, angiogenesis
+SLC16A1	-0.2441	0.99	solute carrier family 16 member 1 (MCT1), lactate and pyruvate transporter
+RPL5	-1.6962	0.011403	ribosomal protein L5, uL18 in new nomenclature, tumor suppressor, ribosome biogenesis
+RPS13	0.7425	0.99	ribosomal protein S13, 40S subunit, IRES translation
+RPS12	-0.5382	0.99	ribosomal protein S12, 40S subunit
+HNRNPA2B1	-0.561	0.2938	heterogeneous nuclear ribonucleoprotein A2/B1, mRNA processing, m6A reader, stress granules
+LDHA	-0.5233	0.99	lactate dehydrogenase A, anaerobic glycolysis, widely used reference gene
+MYC	-3.4179	0.000818	MYC proto-oncogene, transcription factor, promotes cell proliferation, downregulated in viral stress
+RPS9	-0.0293	0.99	ribosomal protein S9, 40S ribosomal subunit
+E2F1	-2.6611	0.012476	E2F transcription factor 1, activates S-phase genes, downregulated in infected cells
+IFIT2	7.2339	0.001379	interferon-induced protein with tetratricopeptide repeats 2, blocks viral translation
+CCND3	-2.2762	0.002342	cyclin D3, G1/S cell cycle progression, downregulated in viral infection
+CDH1	-2.1029	0.000855	cadherin 1 (E-cadherin), epithelial cell-cell adhesion, tight junction component
+UBE2E1	-0.4168	0.99	ubiquitin-conjugating enzyme E2 E1, SUMO pathway cross-reactivity
+STING1	4.4681	0.003052	stimulator of interferon response cGAMP interactor 1, cGAS-STING innate immune pathway
+JAG1	0.3915	0.99	jagged canonical Notch ligand 1, Notch activating ligand, Alagille syndrome
+IFNL2	4.8949	4e-06	interferon lambda 2 (IL-28A), antiviral cytokine, respiratory epithelium
+RPS16	0.1897	0.4077	ribosomal protein S16, 40S ribosomal subunit
+RAB11A	0.2908	0.99	RAB11A member RAS oncogene family, recycling endosome, IAV assembly
+IFNB1	7.4673	0.009888	interferon beta 1, key antiviral cytokine, activates JAK-STAT signaling
+ITGA5	-1.3413	0.004142	integrin subunit alpha 5, fibronectin receptor, cell adhesion, viral entry modulator
+MT-CO2	-0.0961	0.99	cytochrome c oxidase subunit II, complex IV, electron donor
+MT-ND2	-0.0098	0.99	NADH dehydrogenase subunit 2, mitochondrial complex I
+APC	-0.4105	0.99	APC regulator of WNT signaling pathway, beta-catenin degradation complex, colorectal cancer
+MT-ND1	-0.1778	0.7511	NADH dehydrogenase subunit 1, mitochondrial complex I (nuclear copy)
+PSMB5	0.3565	0.1572	proteasome 20S subunit beta 5, chymotryptic activity, bortezomib target
+CYP11A1	0.2037	0.99	cytochrome P450 family 11 subfamily A member 1, cholesterol side-chain cleavage, steroidogenesis
+DNAJB1	0.2706	0.99	DnaJ heat shock protein family member B1, HSP40, cochaperone for HSP70
+CYP2A6	-0.5558	0.99	cytochrome P450 family 2 subfamily A member 6, nicotine metabolism, hepatic
+IL1B	4.7375	0.000471	interleukin 1 beta, pro-inflammatory cytokine, inflammasome product, IAV pathogenesis
+TRIM25	4.0535	0.003828	tripartite motif-containing protein 25, ubiquitinates RIG-I for activation, antiviral
+HNRNPC	-0.3297	0.99	heterogeneous nuclear ribonucleoprotein C, pre-mRNA processing, m6A sensing
+FOXA2	-0.5053	0.39	forkhead box A2, endoderm development, pancreatic beta cell function
+RPS15	-0.5766	0.9559	ribosomal protein S15, 40S ribosomal subunit
+SCD	-1.8122	0.004451	stearoyl-CoA desaturase, lipid desaturation, required for enveloped virus assembly
+VEGFB	-0.45	0.99	vascular endothelial growth factor B, angiogenesis, myocardial metabolism
+AKT1	-1.3669	0.002384	AKT serine/threonine kinase 1, PI3K/AKT survival signaling, viral immune evasion target
+NTRK1	-0.6302	0.5381	neurotrophic receptor tyrosine kinase 1, NGF receptor, pain, cancer fusion
+IFIT5	4.4986	0.002475	interferon-induced protein with tetratricopeptide repeats 5, single-stranded RNA binding
+CASP1	4.2968	0.005099	caspase 1, inflammasome effector, processes IL-1B and IL-18, pyroptosis
+PDGFRB	-0.1628	0.99	platelet-derived growth factor receptor beta, RTK, fibroblast and pericyte signaling
+CDK6	-1.8348	0.011527	cyclin-dependent kinase 6, G1 phase, phosphorylates Rb, suppressed by IAV
+CYP19A1	0.3391	0.99	cytochrome P450 family 19 subfamily A member 1 (aromatase), estrogen biosynthesis
+TTR	-0.5295	0.4528	transthyretin, thyroid hormone and retinol transporter
+CSF1R	-0.2175	0.99	colony stimulating factor 1 receptor, macrophage differentiation, innate immunity
+IL6	5.0398	0.004498	interleukin 6, pleiotropic cytokine, acute phase response, pro-inflammatory in IAV
+EGFR	-2.1918	0.003426	epidermal growth factor receptor, RTK, activated transiently then suppressed in IAV
+IRF9	4.6208	0.002075	interferon regulatory factor 9, forms ISGF3 complex with STAT1/STAT2
+SRSF7	0.458	0.2586	serine and arginine rich splicing factor 7, alternative splicing
+HES1	-0.0757	0.99	hes family bHLH transcription factor 1, Notch target, neural progenitor maintenance
+L1CAM	0.3521	0.99	L1 cell adhesion molecule, axon guidance, L1 syndrome, neuronal migration
+RPL8	0.0856	0.99	ribosomal protein L8, 60S subunit
+MCM4	-2.1083	0.004718	minichromosome maintenance complex component 4, DNA replication, suppressed by viral infection
+RPS4X	0.1514	0.99	ribosomal protein S4 X-linked, 40S ribosomal subunit
+PSMD1	-0.1093	0.8001	proteasome 26S subunit non-ATPase 1, scaffold of 19S regulatory particle
+CACNA1A	-0.1577	0.3534	calcium voltage-gated channel subunit alpha1 A (P/Q-type), neuronal Ca2+ entry
+FOXA1	0.0295	0.5037	forkhead box A1, pioneer transcription factor, liver and prostate gene regulation
+ADAR	5.1054	0.000543	adenosine deaminase RNA-specific, edits viral RNA, ISG, innate immune modulation
+FZD1	0.0256	0.99	frizzled class receptor 1, Wnt receptor, canonical and non-canonical signaling
+MX1	9.0299	0.005772	MX dynamin-like GTPase 1, inhibits influenza virus replication, interferon-stimulated gene
+NLGN1	0.293	0.99	neuroligin 1, postsynaptic cell adhesion, excitatory synapse
+NRF1	-0.219	0.8748	nuclear respiratory factor 1, mitochondrial biogenesis transcription factor
+SOCS3	-2.1259	0.011298	suppressor of cytokine signaling 3, JAK-STAT negative regulator, viral immune evasion
+RPS7	0.062	0.7783	ribosomal protein S7, 40S subunit, p53 activation
+SRSF1	-0.3669	0.4649	serine and arginine rich splicing factor 1 (ASF/SF2), splicing enhancer
+IFI27	6.0409	0.00041	interferon-alpha inducible protein 27, pro-apoptotic, ISG
+MBD2	-1.5878	0.002881	methyl-CpG binding domain protein 2, DNA methylation reader, gene silencing
+HSPA1A	0.064	0.99	heat shock protein family A member 1A (HSP70), chaperone, stress response, pro-survival
+SP1	-1.4755	0.008782	Sp1 transcription factor, GC-box binding, ubiquitous activator
+IFI44	6.7946	0.010435	interferon-induced protein 44, antiviral, GTPase activity
+NPM1	-0.5629	0.99	nucleophosmin 1, ribosome biogenesis, p53 regulation, AML mutation
+AFP	0.1004	0.99	alpha-fetoprotein, fetal serum protein, hepatocellular carcinoma marker
+TRAIL	4.1568	0.001832	TNF superfamily member 10 (TRAIL/TNFSF10), induces apoptosis in virus-infected cells
+STAT2	4.1673	0.000608	signal transducer and activator of transcription 2, type I interferon signaling, ISGF3 component
+SLC1A1	-0.452	0.99	solute carrier family 1 member 1, glutamate transporter
+CYP17A1	-0.3899	0.99	cytochrome P450 family 17 subfamily A member 1, steroid 17-alpha-hydroxylase, sex hormone synthesis
+POLG	-0.0629	0.99	DNA polymerase gamma, mtDNA replication, progressive external ophthalmoplegia
+B2M	-0.275	0.99	beta-2-microglobulin, MHC class I component, widely used reference gene
+RPL14	0.0328	0.99	ribosomal protein L14, large ribosomal subunit
+RPL13	-0.0476	0.3358	ribosomal protein L13, 60S ribosomal subunit
+U2AF1	-0.5714	0.99	U2 small nuclear RNA auxiliary factor 1, 3prime splice site recognition
+FN1	-2.4691	0.004805	fibronectin 1, extracellular matrix glycoprotein, cell adhesion, reduced in viral infection
+RAB6A	0.1079	0.2002	RAB6A member RAS oncogene family, intra-Golgi transport
+IFIT3	6.7513	0.005138	interferon-induced protein with tetratricopeptide repeats 3, antiviral defense
+NCAM2	0.3734	0.99	neural cell adhesion molecule 2, olfactory axon guidance
+DYNC1H1	0.0098	0.99	dynein cytoplasmic 1 heavy chain 1, retrograde transport, viral nuclear import
+RPL10	0.4662	0.6327	ribosomal protein L10, 60S subunit, spinocerebellar ataxia mutation
+GATA3	-0.4745	0.99	GATA binding protein 3, T cell and Th2 differentiation, luminal breast cancer marker
+HSP90AB1	-0.3152	0.99	heat shock protein 90 alpha family class B member 1, constitutive cytosolic HSP90
+HERC6	5.2069	0.003025	HECT and RLD domain-containing E3 ubiquitin ligase family member 6, ISGylation
+IFNAR1	3.6601	0.000632	interferon alpha and beta receptor subunit 1, JAK-STAT signaling receptor
+F2	0.2199	0.2851	coagulation factor II (thrombin), blood coagulation cascade, fibrinogen cleavage
+FZD4	-0.2824	0.99	frizzled class receptor 4, Wnt receptor, retinal vascularization, FEVR
+HMGA1	-0.1564	0.99	high mobility group AT-hook 1, chromatin architectural factor, IFN-beta enhanceosome
+IFNA1	4.7469	0.009213	interferon alpha 1, antiviral cytokine, type I interferon family
+APOA1	0.1662	0.99	apolipoprotein A1, major HDL component, cholesterol reverse transport
+HPX	-0.1598	0.99	hemopexin, heme binding plasma protein, oxidative stress protection
+UBE2B	0.1858	0.8936	ubiquitin-conjugating enzyme E2 B, DNA damage tolerance
+EIF2AK2	5.8529	0.002299	eukaryotic translation initiation factor 2-alpha kinase 2 (PKR), senses dsRNA, inhibits translation
+TOP2A	-2.0466	0.005962	topoisomerase II alpha, DNA decatenation, required for mitosis, downregulated in stressed cells
+FBN1	0.152	0.99	fibrillin 1, extracellular matrix microfibril, Marfan syndrome gene
+ARF1	0.4708	0.99	ADP ribosylation factor 1, Golgi vesicle budding, anterograde transport
+LAMC1	-0.5116	0.99	laminin subunit gamma 1, universal laminin gamma chain, basement membrane
+FUS	0.0981	0.4478	FUS RNA-binding protein, RNA processing, ALS-associated, stress granules
+HPRT1	0.5247	0.2154	hypoxanthine phosphoribosyltransferase 1, purine salvage, reference gene
+UBC	-0.0368	0.9416	ubiquitin C, ubiquitin precursor, reference gene
+BMP2	0.5485	0.99	bone morphogenetic protein 2, osteoblast differentiation, fracture repair
+COL1A2	0.2642	0.1603	uncharacterized gene COL1A2, function under investigation
+PSMB1	-0.1155	0.99	proteasome 20S subunit beta 1, MHC class I antigen presentation
+PAX5	0.0481	0.99	paired box 5 (BSAP), B cell commitment transcription factor
+CCL5	8.4652	0.002391	C-C motif chemokine ligand 5 (RANTES), recruits memory T cells and NK cells, anti-influenza
+IGF2	-0.5585	0.99	insulin-like growth factor 2, fetal growth, imprinted gene, Wilms tumor
+IFI35	3.7983	0.005255	interferon-induced protein 35, forms complex with NMI, ISG
+SLC7A5	0.1961	0.99	solute carrier family 7 member 5 (LAT1), large neutral amino acid transporter
+ACACA	-1.6152	0.001763	acetyl-CoA carboxylase alpha, first step of fatty acid synthesis, downregulated in viral stress
+PAX2	-0.0016	0.99	paired box 2, kidney and eye development, Wilms tumor suppressor
+NONO	-0.2969	0.99	non-POU domain-containing octamer-binding protein, paraspeckle, antiviral
+HNRNPD	0.6015	0.8797	heterogeneous nuclear ribonucleoprotein D (AUF1), mRNA stability, AU-rich element binding
+RAB2A	0.1421	0.99	RAB2A member RAS oncogene family, Golgi-ER retrograde transport
+TUBG1	-0.6883	0.99	tubulin gamma 1, microtubule nucleation at centrosome
+CCND2	-2.5508	0.011396	cyclin D2, G1/S transition, suppressed by viral stress response
+WNT5A	-0.38	0.7377	Wnt family member 5A, non-canonical Wnt signaling, planar cell polarity
+ELN	0.5497	0.4595	elastin, elastic fiber component, skin and arterial wall elasticity
+RAB27A	-0.3191	0.99	RAB27A member RAS oncogene family, secretory lysosome exocytosis
+PAX6	-0.2361	0.6025	paired box 6, eye and brain development, aniridia gene
+RPL15	-0.5099	0.99	ribosomal protein L15, 60S ribosomal subunit
+CYP7A1	-0.0986	0.99	cytochrome P450 family 7 subfamily A member 1, bile acid synthesis, cholesterol catabolism
+RPS2	-0.4328	0.99	ribosomal protein S2, 40S small ribosomal subunit
+HMBS	-0.2186	0.99	hydroxymethylbilane synthase, heme synthesis, reference gene
+SLC6A4	-0.6347	0.8799	solute carrier family 6 member 4 (SERT), serotonin reuptake
+DVL1	0.0073	0.6143	dishevelled segment polarity protein 1, Wnt signal transducer, beta-catenin pathway
+ALB	0.2245	0.99	albumin, most abundant plasma protein, osmotic pressure, drug carrier
+ABCC1	-0.417	0.99	ATP-binding cassette subfamily C member 1 (MRP1), drug efflux, glutathione conjugates
+RAB18	-0.0481	0.3071	RAB18 member RAS oncogene family, lipid droplet biogenesis
+CFTR	-0.26	0.6797	CF transmembrane conductance regulator, chloride channel, cystic fibrosis gene, airway function
+APOB	-0.2821	0.4441	apolipoprotein B, VLDL and LDL component, cholesterol transport to peripheral tissues
+MCL1	-1.7552	0.004085	MCL1 apoptosis regulator, anti-apoptotic BCL2 family, suppressed in viral infection
+RPL18	-0.3681	0.7024	ribosomal protein L18, 60S subunit, IRF3 regulation
+MT-CO1	-0.1133	0.99	cytochrome c oxidase subunit I, mitochondrial complex IV
+COL6A1	-0.818	0.4524	collagen type VI alpha 1 chain, beaded filament, muscle extracellular matrix
+TGFB2	0.1579	0.4622	transforming growth factor beta 2, tissue development, immune regulation
+SHH	-0.4902	0.777	sonic hedgehog signaling molecule, morphogen, limb and neural tube
+FGFR2	0.9279	0.3292	fibroblast growth factor receptor 2, RTK, limb development, gastric cancer
+RAB4A	0.0047	0.3325	RAB4A member RAS oncogene family, early endosome recycling
+NKX2-1	-0.2061	0.5248	NK2 homeobox 1 (TTF-1), lung and thyroid development

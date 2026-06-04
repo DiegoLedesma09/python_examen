@@ -25,7 +25,7 @@ from depuramiento_gff import parse_attributes
 from description_for_gene import agregar_descripcion
 from clasificacion import clasificacion_genes
 from output import imprimir_resultados_con_descripcion, imprimir_resultados
-
+from volcano import volcano_plot
 
 def main():
     """Ejecuta el flujo completo de análisis diferencial.
@@ -80,4 +80,5 @@ def main():
         umbral_lfc,
         str(file_output_summary),
     )
+    volcano_plot(data_con_descripcion, umbral_padj, umbral_lfc, str(output_path))
     
